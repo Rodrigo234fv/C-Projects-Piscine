@@ -1,3 +1,15 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   ft_strlcpy.c                                       :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: rode-alb <rode-alb@student.42lisboa.com    +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2022/07/27 23:45:59 by rode-alb          #+#    #+#             */
+/*   Updated: 2022/07/27 23:45:59 by rode-alb         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
 int ft_strlen(char *str)
 {
     unsigned int i;
@@ -27,5 +39,4 @@ unsigned int ft_strlcpy(char *dest, char *src, unsigned int size)
         dest[i] = '\0';
     }
     return (x);
-
 }
