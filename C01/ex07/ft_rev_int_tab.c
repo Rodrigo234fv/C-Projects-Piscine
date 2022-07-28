@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_rev_int_tab.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: rode-alb <rodrigoalbuquerquesantoslima@    +#+  +:+       +#+        */
+/*   By: rode-alb <rode-alb@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/07/17 22:59:12 by rode-alb          #+#    #+#             */
-/*   Updated: 2022/07/17 22:59:12 by rode-alb         ###   ########.fr       */
+/*   Created: 2022/07/28 09:46:08 by rode-alb          #+#    #+#             */
+/*   Updated: 2022/07/28 09:46:08 by rode-alb         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
