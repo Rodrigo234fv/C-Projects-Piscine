@@ -10,4 +10,4 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-// Actually this exercise is pertty doable. But I was done with C03´s strstr so I skipped this 
+// Actually this exercise is doable. But I was done with C03´s strstr so I skipped this 
