@@ -23,3 +23,6 @@ typedef struct s_point
 
 //structs are a way to group several related variables into one place.
 //Each variable in the structure is known as a member of the structure.
+
+//The C language contains the typedef keyword to allow users to provide
+// alternative names for the primitive (e.g.,​ int) and user-defined​ (e.g struct) data types
