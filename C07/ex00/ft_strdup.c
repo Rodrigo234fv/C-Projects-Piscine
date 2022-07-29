@@ -60,3 +60,5 @@ int main(void)
     printf("str name: %s and new memory allocation place:%p", alloc, alloc);
 }
 
+//This was the last exercise that i´ve done in my Piscine.
+//From now on this is my post piscine work :)
